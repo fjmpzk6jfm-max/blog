@@ -1,0 +1,10 @@
+{
+  "name": "blog",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "my-emdash-site",
+      "database_id": "367b6e5f-9e18-40cb-bce6-6801f1206e7f"
+    }
+  ]
+}
