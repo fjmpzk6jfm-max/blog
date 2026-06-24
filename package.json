@@ -17,7 +17,7 @@
     "@astrojs/react": "^6.0.0",
     "@emdash-cms/cloudflare": "^0.22.0",
     "@emdash-cms/plugin-audit-log": "^0.2.0",
-    "astro": "^7.0.0",
+    "astro": "^6.13.0",
     "better-sqlite3": "^12.8.0",
     "emdash": "^0.22.0",
     "kysely-d1": "^0.4.0",
