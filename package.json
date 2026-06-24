@@ -7,12 +7,11 @@
     "seed": "seed/seed.json"
   },
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "start": "node ./dist/server/entry.mjs",
-    "typecheck": "astro check"
-  },
+  "dev": "astro dev",
+  "build": "astro build",
+  "preview": "astro preview",
+  "deploy": "npm run build && wrangler deploy" 
+},
  "dependencies": {
     "@astrojs/node": "^11.0.0",
     "@astrojs/react": "^6.0.0",
