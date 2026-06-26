@@ -7,7 +7,7 @@ import { sqlite } from "emdash/db";
 
 export default defineConfig({
 	output: "server",
-	adapter: node({
+	adapter: cloudflare({
 		mode: "standalone",
 	}),
 	image: {
